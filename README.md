@@ -47,17 +47,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-This will start a local server, and you can access the chatbot at http://localhost:8501 in your browser.
-## **📌 Folder Structure**  
-📂 your-repo-name/
-│-- 📂 utils/            # Helper functions (LangChain pipeline, DB queries, etc.)
-│-- 📂 data/             # SQLite database files
-│-- app.py               # Main Streamlit app
-│-- requirements.txt     # Python dependencies
-│-- README.md            # Project documentation
-│-- chatbot.png          # UI logo/image
-
----
 
 ## **⚠️ Known Limitations & Suggestions for Improvement**  
 
