@@ -73,15 +73,3 @@ This will start a local server, and you can access the chatbot at http://localho
 - 🚀 **Vector Database:** Use **FAISS** or **ChromaDB** for improved search capabilities.  
 
 ---
-
-## **🤝 Contributing**  
-Feel free to **fork** this repo and submit **pull requests**! Any improvements or suggestions are welcome.  
-
----
-
-## **📧 Contact**  
-For any questions or suggestions, reach out via:  
-📩 **Email:** your-email@example.com  
-🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername)  
-🔗 **GitHub:** [your-username](https://github.com/your-username)  
-
